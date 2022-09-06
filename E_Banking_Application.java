@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class E_Banking {
+public class E_Banking_Application {
     protected static String name;
     protected static int age;
     public static float balance = 5000;
