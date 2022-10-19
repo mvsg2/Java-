@@ -1,2 +1,2 @@
 # Java-
-Java is one of the most commonly used programming languages, especially more for fields like Android Development, etc.
+Java is one of the most commonly used programming languages, especially more in the domains like Android Development, etc.
